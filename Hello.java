@@ -5,6 +5,6 @@ Scanner x=new Scanner(System.in);
 int a=x.nextInt();
 while(a!=0)
 {
- System.out.println("Hello");
+  System.out.println("Hello");
 a--;}
 }}
